@@ -5,5 +5,5 @@ while true
 do
 let "i=i+1"
 python main.py
-sleep 720h
+sleep 6h
 done
